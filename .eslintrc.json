@@ -1,0 +1,21 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:react/recommended", "prettier"],
+  "rules": {
+    "no-restricted-syntax": [
+      "error",
+      {
+        "selector": "JSXAttribute > JSXExpressionContainer > ArrowFunctionExpression",
+        "message": "Inline JSX lambdas are not allowed. Use exported handlers."
+      },
+      {
+        "selector": "FunctionDeclaration FunctionDeclaration",
+        "message": "Nested function declarations are not allowed."
+      },
+      {
+        "selector": "FunctionDeclaration ArrowFunctionExpression",
+        "message": "Nested arrow functions are not allowed."
+      }
+    ],
+    "react/react-in-jsx-scope": "off"
+  }
+}
