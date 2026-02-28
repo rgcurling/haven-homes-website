@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "slug": "sunlit-living-room-layers",
+    "caption": "Sunlit living layered in oak, boucle, and limewash walls. #livingroom #modernorganic",
+    "mediaUrl": "/portfolio/room-1.svg",
+    "thumbnailUrl": "/portfolio/room-1.svg",
+    "permalink": "https://www.instagram.com/p/sample1/",
+    "timestamp": "2024-03-11T12:00:00.000Z",
+    "hashtags": ["livingroom", "modernorganic"],
+    "keywords": ["living room", "oak", "textured"]
+  },
+  {
+    "id": "2",
+    "slug": "kitchen-with-sculptural-stool",
+    "caption": "A kitchen composition in warm neutrals and sculptural forms. #kitchen #interiordesign",
+    "mediaUrl": "/portfolio/room-2.svg",
+    "thumbnailUrl": "/portfolio/room-2.svg",
+    "permalink": "https://www.instagram.com/p/sample2/",
+    "timestamp": "2024-04-07T12:00:00.000Z",
+    "hashtags": ["kitchen", "interiordesign"],
+    "keywords": ["kitchen", "neutrals", "stone"]
+  },
+  {
+    "id": "3",
+    "slug": "primary-bedroom-soft-minimal",
+    "caption": "Soft minimal primary suite with custom drapery. #bedroom #timeless",
+    "mediaUrl": "/portfolio/room-3.svg",
+    "thumbnailUrl": "/portfolio/room-3.svg",
+    "permalink": "https://www.instagram.com/p/sample3/",
+    "timestamp": "2024-05-03T12:00:00.000Z",
+    "hashtags": ["bedroom", "timeless"],
+    "keywords": ["bedroom", "drapery", "linen"]
+  },
+  {
+    "id": "4",
+    "slug": "moody-dining-with-brass",
+    "caption": "Dining room with patina brass and tailored seating. #diningroom #luxuryinteriors",
+    "mediaUrl": "/portfolio/room-4.svg",
+    "thumbnailUrl": "/portfolio/room-4.svg",
+    "permalink": "https://www.instagram.com/p/sample4/",
+    "timestamp": "2024-06-20T12:00:00.000Z",
+    "hashtags": ["diningroom", "luxuryinteriors"],
+    "keywords": ["dining", "brass", "tailored"]
+  },
+  {
+    "id": "5",
+    "slug": "entryway-statement-console",
+    "caption": "An entry moment grounded by stone and sculptural lighting. #entryway #interiorstyle",
+    "mediaUrl": "/portfolio/room-5.svg",
+    "thumbnailUrl": "/portfolio/room-5.svg",
+    "permalink": "https://www.instagram.com/p/sample5/",
+    "timestamp": "2024-07-15T12:00:00.000Z",
+    "hashtags": ["entryway", "interiorstyle"],
+    "keywords": ["entry", "stone", "lighting"]
+  },
+  {
+    "id": "6",
+    "slug": "family-room-collected-texture",
+    "caption": "Collected textures for everyday family life. #familyroom #homedecor",
+    "mediaUrl": "/portfolio/room-6.svg",
+    "thumbnailUrl": "/portfolio/room-6.svg",
+    "permalink": "https://www.instagram.com/p/sample6/",
+    "timestamp": "2024-08-02T12:00:00.000Z",
+    "hashtags": ["familyroom", "homedecor"],
+    "keywords": ["family room", "texture", "neutral"]
+  }
+]
